@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/ChSchmidt99/badges/large">
+<img src="https://www.codewars.com/users/schmizzel/badges/large">
 
 <!--
 **ChSchmidt99/ChSchmidt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
